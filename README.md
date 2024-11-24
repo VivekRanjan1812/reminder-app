@@ -24,8 +24,7 @@
 4. Open the provided URL in a web browser.
 
 ## Live Demo
-[Click here to try the app]([https://reminder-app-nz2dzwndynsziegjg3dafe.streamlit.app/)
-
+[Click here to try the app](https://reminder-app-nz2dzwndynsziegjg3dafe.streamlit.app/)
 ## ScreenShots
 Reminder App screenshots![Screenshot1](https://github.com/user-attachments/assets/effc7b67-9905-47c1-a539-42c78906c01f)
 ![Screensho2](https://github.com/user-attachments/assets/4b2ff3e1-fed4-4056-bdc7-714a15257074)
